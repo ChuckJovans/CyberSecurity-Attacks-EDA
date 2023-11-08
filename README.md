@@ -14,6 +14,10 @@ The Datascrubber module offers a comprehensive toolkit for *preliminary data exp
 #### Big thanks to [Muganga Charles](https://github.com/muganga-charles) for intelligently engineering this toolkit 
 
 ## Exploratory Data Analysis
-Cleaned the Dataset using the data_cleaning() mehtod foung in the datascrubber toolkit. It generated a visual after the data cleaning indicating clean data
+Cleaned the Dataset using the data_cleaning() method foung in the datascrubber toolkit. It generated a visual after the data cleaning indicating clean data
 ![No missing values ](https://github.com/ChuckJovans/CyberSecurity-Attacks-EDA/assets/90473880/e2be9078-7d7e-4cf7-b9bf-82c9c1391f00)
+
+#### Distributions
+![Attack Type](https://github.com/ChuckJovans/CyberSecurity-Attacks-EDA/assets/90473880/e095b49e-e0b9-4d8c-b75c-c2af1e841495) ![Traffic Type](https://github.com/ChuckJovans/CyberSecurity-Attacks-EDA/assets/90473880/20e41642-51d9-44b0-80ab-187a2c4a61b4)
+
 
