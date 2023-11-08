@@ -20,4 +20,8 @@ Cleaned the Dataset using the data_cleaning() method foung in the datascrubber t
 #### Distributions
 ![Attack Type](https://github.com/ChuckJovans/CyberSecurity-Attacks-EDA/assets/90473880/e095b49e-e0b9-4d8c-b75c-c2af1e841495) ![Traffic Type](https://github.com/ChuckJovans/CyberSecurity-Attacks-EDA/assets/90473880/20e41642-51d9-44b0-80ab-187a2c4a61b4)
 
+#### Relationships
+![Attack Vs Traffic Type](https://github.com/ChuckJovans/CyberSecurity-Attacks-EDA/assets/90473880/d847f819-6f97-4ada-b386-654ee01bb407) ![Contigency Table for Attack Vs Traffic Type](https://github.com/ChuckJovans/CyberSecurity-Attacks-EDA/assets/90473880/84980688-00cf-4e76-993f-e58a4507762d)
+
+
 
